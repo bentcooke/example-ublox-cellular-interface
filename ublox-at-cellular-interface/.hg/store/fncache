@@ -1,0 +1,9 @@
+data/TESTS/unit_tests/default/platform_config.py.i
+data/TESTS/unit_tests/default/template_mbed_app.txt.i
+data/ublox-cellular-base.lib.i
+data/TESTS/unit_tests/dynamic/main.cpp.i
+data/TESTS/unit_tests/dynamic/template_mbed_app.txt.i
+data/TESTS/unit_tests/default/main.cpp.i
+data/TESTS/unit_tests/dynamic/platform_config.py.i
+data/UbloxATCellularInterface.h.i
+data/UbloxATCellularInterface.cpp.i
